@@ -1,5 +1,3 @@
 local git txt
 
-some changes
-
-hello word
+Здесь изменения, которые надо сдлеать
