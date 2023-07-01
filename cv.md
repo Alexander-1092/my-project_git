@@ -1,4 +1,4 @@
-#Antonov Alexander
+*Antonov Alexander*
 #My mail: Alex-Sadr1092@yandex.ru
 #myself
 #Basic knowledge of Python, Basic knowledge of JS, CSS, HTML, SCSS
