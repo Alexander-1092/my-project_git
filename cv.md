@@ -2,7 +2,7 @@
 2. My mail: Alex-Sadr1092@yandex.ru 
 3. myself 3
 4. Basic knowledge of Python, Basic knowledge of JS, CSS, HTML, SCSS
-5.
+5. Code:
 ```
 function XO(str) {
   const xo = str.toLocaleLowerCase().split('')
