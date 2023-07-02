@@ -11,7 +11,7 @@ function XO(str) {
 	if (x.length == o.length || (!xo.includes('o') && !xo.includes('x'))) 
 	{return true} else {return false}}
  ```
-6. [An example of my training layout](https://github.com/Alexander-1092/practic)
+6. I have been independently studying the frontend for over a year. [An example of a learning project I did](https://github.com/Alexander-1092/practic) 
 7. *Master of Religious Science
 8. *А2
 
