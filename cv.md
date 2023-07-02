@@ -4,7 +4,6 @@
 4. Basic knowledge of Python, Basic knowledge of JS, CSS, HTML, SCSS
 5.
 ```
-
 function XO(str) {
   const xo = str.toLocaleLowerCase().split('')
 	const x = xo.filter(element => element == 'x')
