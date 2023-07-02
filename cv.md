@@ -7,8 +7,7 @@
 	const x = xo.filter(element => element == 'x')
 	const o = xo.filter(element => element == 'o')
 	if (x.length == o.length || (!xo.includes('o') && !xo.includes('x'))) 
-	{return true} else {return false}
-}```
+	{return true} else {return false}}```
 6. *Сюда вставить код на проект
 7. *Master of Religious Science
 8. *А2
